@@ -1,5 +1,3 @@
-# Farhan_TaskNumber2
-
 # BMI Calculator
 
 ## Description
